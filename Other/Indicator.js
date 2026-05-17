@@ -10,14 +10,24 @@
             'edittemplateeditorprotected': 'Trang này đã bị khóa và chỉ kỹ thuật viên bản mẫu trở lên mới có thể sửa đổi',
             'editmoderatorprotected': 'Trang này đã bị khóa và chỉ điều phối viên trở lên mới có thể sửa đổi',
             'sysop': 'Trang này đã bị khóa và chỉ bảo quản viên mới có thể sửa đổi.',
-            'editbureaucratprotected': 'Trang này đã bị khóa và chỉ hành chính viên mới có thể sửa đổi',
-            'interface': 'Trang này mặc nhiên bị khóa hẳn vì nó cung cấp mã nền tảng cho dự án.'
+            'editbureaucratprotected': 'Trang này đã bị khóa và chỉ hành chính viên và nhân viên Ban bí thư mới có thể sửa đổi',
+            'interface': 'Trang này mặc nhiên bị khóa hẳn vì nó cung cấp mã nền tảng cho dự án.',
         },
         moveProtectionLevelDescriptions: {
-            'sysop': 'Trang này đã bị khóa và chỉ bảo quản viên mới có thể di chuyển.'
+            'sysop': 'Trang này đã bị khóa và chỉ bảo quản viên mới có thể di chuyển.',
+            'user': 'Trang này đã bị khóa và chỉ thành viên đã đăng ký tài khoản tại dự án này mới có thể di chuyển.',
+            'autoconfirmed': 'Trang này đã bị khóa và chỉ thành viên đã được tự động xác nhận mới có thể di chuyển.',
+            'editextendedconfirmedprotected': 'Trang này đã bị khóa và chỉ thành viên đã được xác nhận mở rộng mới có thể di chuyển',
+            'editmoderatorprotected': 'Trang này đã bị khóa và chỉ điều phối viên trở lên mới có thể di chuyển',
+            'editbureaucratprotected': 'Trang này đã bị khóa và chỉ hành chính viên và nhân viên Ban bí thư mới có thể di chuyển'
         },
         uploadProtectionLevelDescriptions: {
-            'sysop': 'Tập tin này đã bị khóa và chỉ bảo quản viên mới có thể ghi đè tập tin này.'
+            'sysop': 'Tập tin này đã bị khóa và chỉ bảo quản viên mới có thể ghi đè tập tin này.',
+            'user': 'Tập tin này đã bị khóa và chỉ thành viên đã đăng ký tài khoản tại dự án này mới có thể ghi đè tập tin này.',
+            'autoconfirmed': 'Tập tin này đã bị khóa và chỉ thành viên đã được tự động xác nhận mới có thể ghi đè tập tin này.',
+            'editextendedconfirmedprotected': 'Tập tin này đã bị khóa và chỉ thành viên đã được xác nhận mở rộng mới có thể ghi đè tập tin này',
+            'editmoderatorprotected': 'Tập tin này đã bị khóa và chỉ điều phối viên trở lên mới có thể ghi đè tập tin này',
+            'editbureaucratprotected': 'Tập tin này đã bị khóa và chỉ hành chính viên và nhân viên Ban bí thư mới có thể ghi đè tập tin này'
         },
         protectionLevelLinks: {
         	'user': 'BKDatabase:Quy định khóa trang#Khóa thành viên đăng nhập',
@@ -27,7 +37,7 @@
             'editmoderatorprotected': 'BKDatabase:Quy định khóa trang#Khóa điều phối viên',
             'sysop': 'BKDatabase:Quy định khóa trang#Khóa bảo quản viên',
             'editbureaucratprotected': 'BKDatabase:Quy định khóa trang#Khóa hành chính viên',
-            'interface': 'BKDatabase:Quy định khóa trang#Khóa hệ thống'
+            'interface': 'BKDatabase:Quy định khóa trang#Khóa hệ thống',
         }
     };
 
